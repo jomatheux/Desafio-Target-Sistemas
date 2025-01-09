@@ -10,7 +10,6 @@ Este repositório contém soluções para os desafios propostos pela Target Sist
 - [Uso](#uso)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Contribuidores](#contribuidores)
-- [Licença](#licença)
 
 ## Introdução
 
